@@ -6,5 +6,6 @@ This is the readme for dev  group conf tracker
 
 - Joe Hall
 - Gloria Raharimbolamena
+- Tom Higginson
 - Mark Taylor
 - Darius Michienzi
